@@ -1,0 +1,83 @@
+#SArredondada{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 4px solid #0000ff;
+    border-radius: 10px;
+    background-color: #ffa500;
+    display: inline-block;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+#SQuadrada{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 4px solid #0000ff;
+    background-color: #ffa500;
+    display: inline-block;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+#SArredondadaInt{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 4px solid #0000ff;
+    border-radius: 10px;
+    background-color: #ffa500;
+    display: inline-block;
+    box-shadow: inset 8px 8px rgba(0, 0, 0, 0.5);
+}
+
+#SQuadradaInt{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 4px solid #0000ff;
+    background-color: #ffa500;
+    display: inline-block;
+    box-shadow: inset 8px 8px rgba(0, 0, 0, 0.5);
+}
+
+#SArredondadaG{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 4px solid #0000ff;
+    border-radius: 10px;
+    background-color: #ffa500;
+    display: inline-block;
+    box-shadow: 15px 2px 5px rgba(0, 0, 0, 0.5), 2px 15px 5px rgba(0, 0, 0, 0.5);
+}
+
+#SQuadradaG{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 4px solid #0000ff;
+    background-color: #ffa500;
+    display: inline-block;
+    box-shadow: 15px 2px 5px rgba(0, 0, 0, 0.5), 2px 15px 5px rgba(0, 0, 0, 0.5);
+}
+
+#SArredondadaIntG{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 4px solid #0000ff;
+    border-radius: 10px;
+    background-color: #ffa500;
+    display: inline-block;
+    box-shadow: inset 15px 15px rgba(0, 0, 0, 0.5);
+}
+
+#SQuadradaIntG{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 4px solid #0000ff;
+    background-color: #ffa500;
+    display: inline-block;
+    box-shadow: inset 15px 15px rgba(0, 0, 0, 0.5);
+}
